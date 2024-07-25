@@ -1,6 +1,6 @@
-# Bonny Project
+# TypeScript Project - Bonny :computer:
 
-Questo progetto modella la struttura operativa di una startup che facilita l'accesso ai bonus statali per i cittadini, concentrandosi sulle interazioni tra startup, incentivi statali e cittadini partecipanti.
+Questo progetto TypeScript modella la struttura operativa di una startup che facilita l'accesso ai bonus statali per i cittadini, concentrandosi sulle interazioni tra startup, incentivi statali e cittadini partecipanti.
 
 ## Struttura del progetto
 
@@ -19,5 +19,7 @@ Questo progetto modella la struttura operativa di una startup che facilita l'acc
 ## Come eseguire il progetto
 
 1. Installare le dipendenze:
-   ```sh
-   npm install
+   - `npm install`
+   - `npm run build`
+   - `npm start`
+   
