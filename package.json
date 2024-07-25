@@ -1,0 +1,17 @@
+{
+  "name": "bonnyprojecttypescript",
+  "version": "1.0.0",
+  "description": "Questo progetto modella la struttura operativa di una startup che facilita l'accesso ai bonus statali per i cittadini, concentrandosi sulle interazioni tra startup, incentivi statali e cittadini partecipanti.",
+  "main": "dist/main.js",
+  "scripts": { 
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
