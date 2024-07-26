@@ -18,7 +18,6 @@ Questo progetto TypeScript modella la struttura operativa di una startup che fac
 
 ## Come eseguire il progetto
 
-1. Installare le dipendenze:
    - `npm install`
    - `npm run build`
    - `npm start`
