@@ -10,10 +10,13 @@ const startup2 = new Startup_1.Startup("SportGear", "attrezzature sportive innov
 const incentivo1 = new Incentivo_1.Incentivo("INC001", "Bonus per app di fitness", 5000, "app per il fitness");
 const incentivo2 = new Incentivo_1.Incentivo("INC002", "Bonus per attrezzature sportive", 10000, "attrezzature sportive innovative");
 // Istanziare un cittadino
-const cittadino1 = new Cittadino_1.Cittadino("Mario", "Rossi", 30, ["Corsa", "Palestra"]);
+const cittadino1 = new Cittadino_1.Cittadino("Mario", "Rossi", 28, ["Corsa", "Crossfit"]);
+const cittadino2 = new Cittadino_1.Cittadino("Giuseppe", "Bianchi", 26, ["Pallavolo", "Nuoto"]);
 // Assegnare incentivi alle startup
 incentivo1.assegnaAStartup(startup1); // Startup eleggibile
 incentivo2.assegnaAStartup(startup2); // Startup eleggibile
 // Cittadino partecipa alle attività delle startup
 cittadino1.partecipaAttività(startup1);
 cittadino1.partecipaAttività(startup2);
+cittadino2.partecipaAttività(startup1);
+cittadino2.partecipaAttività(startup2);
