@@ -2,6 +2,10 @@
 
 Questo progetto TypeScript modella la struttura operativa di una startup ipotetica di nome Bonny.</br>Essa mira a facilitare l'accesso ai bonus statali per i cittadini, concentrandosi sulle interazioni tra startup, incentivi statali e cittadini partecipanti.
 
+## Visionare il progetto
+
+Puoi visionare il mio progetto anche su CodePen cliccando [qui](https://codepen.io/Ila1997/pen/ZEdpMNq).
+
 ## Requisiti
 
 - [Node.js](https://nodejs.org/) (versione 14 o superiore)
